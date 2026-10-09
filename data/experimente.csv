@@ -1,0 +1,20 @@
+id,titel,status,kennzahl,bereich
+EXP 01,"Online-Akquise mit KI: Von ROAS 0,15 zu einem System das sich trägt",abgeschlossen,"ROAS 0,15 (Start) → 0,82 (Jahr 1) → ~3,53 (4 Jahre)",Online-Akquise
+EXP 02,365 personalisierte Kampagnen,abgeschlossen,+84 % Conversion Uplift,Personalisierung
+EXP 03,Reaktivierung: KI weiß wer wirklich zurückkommt,abgeschlossen,"+47 % Response, +34 % Einnahmen pro Brief",Direktmailing
+EXP 04,Silicon Sampling: KI als Conversion-Detektiv,läuft,"+30 % Conversion (1 Schritt, unter 1 Stunde)",Personalisierung
+EXP 05,"Response vs. DLV: Zwei Strategien, zwei Wahrheiten",abgeschlossen,"+9,8 % Ertrag pro Mail (DLV)",Direktmailing
+EXP 06,Personalisierte Spendenvorschläge: der richtige Betrag,abgeschlossen,"+6,5 % Response, +13,3 % Ertrag pro Mail",Personalisierung
+EXP 07,Wo KI im Fundraising wirklich Zeit spart,abgeschlossen,"4.500 h Text pro Jahr, 4.250 h Verdankung",Effizienz
+EXP 08,Das Experiment das uns am meisten gelehrt hat,Fehlschlag,Alle Modelle schlechter als statisch,KI-Methoden
+EXP 09,Mailing-Auflage reduziert ohne Erlösverlust,abgeschlossen,-29 % Auflage ohne Erlösverlust,Direktmailing
+EXP 11,"FIAB Quiz-Funnel: Erst verbinden, dann fragen",abgeschlossen,+80 % Conversion,Personalisierung
+EXP 12,KI-Segmentierung validiert über 50+ Tests,abgeschlossen,6–12 % Spendensteigerung,KI-Methoden
+EXP 13,"Brief löst Online-Spende aus, ohne dass es jemand sieht",abgeschlossen,~6.400 Halo-Kontakte,Direktmailing
+EXP 14,"3 Briefe, 0 Spenden: was kostet das wirklich?",abgeschlossen,~58.000 Print-Fatigue-Kontakte,Direktmailing
+EXP 15,Digital-Only Audience: manche spenden einfach online,abgeschlossen,~2.490 Kontakte brauchen keinen Brief,Direktmailing
+EXP 16,DLV-Modell statt RFM: Prognose schlägt Rückspiegel,abgeschlossen,+4 % Spendeneinnahmen bei gleicher Reichweite,KI-Methoden
+EXP 17,Upgrade-Audience: wer wird zur Dauerspendenden?,läuft,"Ø Engagement Score der Konvertierenden 0,839",KI-Methoden
+EXP 18,Engagement Score: Abwanderung früh erkennen,läuft,3–6 Monate Vorwarnzeit vor Abwanderung,KI-Methoden
+EXP 19,Prompt Loop: 365 Texte genehmigen ohne einen zu lesen,abgeschlossen,3–5 Iterationen bis genehmigt,Effizienz
+EXP 20,"Champion/Challenger: immer lernen, nie opfern",läuft,"70 % Champion, 30 % Challenger",Effizienz
