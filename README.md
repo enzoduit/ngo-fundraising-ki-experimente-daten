@@ -9,7 +9,7 @@ Zitierbarer Datensatz mit den Kennzahlen aus den dokumentierten FlyRaising-Exper
 - `data/experimente.csv`: Experimente mit Status und Kennzahl
 
 ## Quellen
-- https://learn.flyraising.com/experiments/ (Experimente, 430.980 beeinflusste Spendenentscheidungen, 1.130 Datenpunkte)
+- https://learn.flyraising.com/experiments/ (Experimente, 34.478.334 beeinflusste Spendenentscheidungen, 1.130 Datenpunkte)
 - https://geo.flyraising.com/ (NGO AI Visibility Benchmark, Snapshot 2026-10-08)
 
 ## Zitieren
