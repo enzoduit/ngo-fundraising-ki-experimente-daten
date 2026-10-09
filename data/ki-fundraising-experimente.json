@@ -1,0 +1,183 @@
+{
+ "name": "KI im NGO-Fundraising: 20 Experimente in Zahlen (learn.flyraising.com) plus NGO AI Visibility Benchmark",
+ "dateModified": "2026-10-09",
+ "publisher": "info.flyraising.com (FlyRaising)",
+ "sources": [
+  "https://learn.flyraising.com/experiments/",
+  "https://learn.flyraising.com/",
+  "https://geo.flyraising.com/"
+ ],
+ "license": "CC BY 4.0, Nutzung frei mit Quellenangabe und Link auf https://info.flyraising.com/ki-fundraising-experimente-daten/",
+ "headline_numbers": {
+  "spendenentscheidungen_durch_ki_beeinflusst": 430980,
+  "datenpunkte": 1130,
+  "experimente": 20,
+  "laeuft_seit": "2022-11-15",
+  "open_source_pct": 100,
+  "audiences": 9
+ },
+ "experimente": [
+  {
+   "id": "EXP 01",
+   "titel": "Online-Akquise mit KI: Von ROAS 0,15 zu einem System das sich trägt",
+   "status": "abgeschlossen",
+   "kennzahl": "ROAS 0,15 (Start) → 0,82 (Jahr 1) → ~3,53 (4 Jahre)",
+   "bereich": "Online-Akquise"
+  },
+  {
+   "id": "EXP 02",
+   "titel": "365 personalisierte Kampagnen",
+   "status": "abgeschlossen",
+   "kennzahl": "+84 % Conversion Uplift",
+   "bereich": "Personalisierung"
+  },
+  {
+   "id": "EXP 03",
+   "titel": "Reaktivierung: KI weiß wer wirklich zurückkommt",
+   "status": "abgeschlossen",
+   "kennzahl": "+47 % Response, +34 % Einnahmen pro Brief",
+   "bereich": "Direktmailing"
+  },
+  {
+   "id": "EXP 04",
+   "titel": "Silicon Sampling: KI als Conversion-Detektiv",
+   "status": "läuft",
+   "kennzahl": "+30 % Conversion (1 Schritt, unter 1 Stunde)",
+   "bereich": "Personalisierung"
+  },
+  {
+   "id": "EXP 05",
+   "titel": "Response vs. DLV: Zwei Strategien, zwei Wahrheiten",
+   "status": "abgeschlossen",
+   "kennzahl": "+9,8 % Ertrag pro Mail (DLV)",
+   "bereich": "Direktmailing"
+  },
+  {
+   "id": "EXP 06",
+   "titel": "Personalisierte Spendenvorschläge: der richtige Betrag",
+   "status": "abgeschlossen",
+   "kennzahl": "+6,5 % Response, +13,3 % Ertrag pro Mail",
+   "bereich": "Personalisierung"
+  },
+  {
+   "id": "EXP 07",
+   "titel": "Wo KI im Fundraising wirklich Zeit spart",
+   "status": "abgeschlossen",
+   "kennzahl": "4.500 h Text pro Jahr, 4.250 h Verdankung",
+   "bereich": "Effizienz"
+  },
+  {
+   "id": "EXP 08",
+   "titel": "Das Experiment das uns am meisten gelehrt hat",
+   "status": "Fehlschlag",
+   "kennzahl": "Alle Modelle schlechter als statisch",
+   "bereich": "KI-Methoden"
+  },
+  {
+   "id": "EXP 09",
+   "titel": "Mailing-Auflage reduziert ohne Erlösverlust",
+   "status": "abgeschlossen",
+   "kennzahl": "-29 % Auflage ohne Erlösverlust",
+   "bereich": "Direktmailing"
+  },
+  {
+   "id": "EXP 11",
+   "titel": "FIAB Quiz-Funnel: Erst verbinden, dann fragen",
+   "status": "abgeschlossen",
+   "kennzahl": "+80 % Conversion",
+   "bereich": "Personalisierung"
+  },
+  {
+   "id": "EXP 12",
+   "titel": "KI-Segmentierung validiert über 50+ Tests",
+   "status": "abgeschlossen",
+   "kennzahl": "6–12 % Spendensteigerung",
+   "bereich": "KI-Methoden"
+  },
+  {
+   "id": "EXP 13",
+   "titel": "Brief löst Online-Spende aus, ohne dass es jemand sieht",
+   "status": "abgeschlossen",
+   "kennzahl": "~6.400 Halo-Kontakte",
+   "bereich": "Direktmailing"
+  },
+  {
+   "id": "EXP 14",
+   "titel": "3 Briefe, 0 Spenden: was kostet das wirklich?",
+   "status": "abgeschlossen",
+   "kennzahl": "~58.000 Print-Fatigue-Kontakte",
+   "bereich": "Direktmailing"
+  },
+  {
+   "id": "EXP 15",
+   "titel": "Digital-Only Audience: manche spenden einfach online",
+   "status": "abgeschlossen",
+   "kennzahl": "~2.490 Kontakte brauchen keinen Brief",
+   "bereich": "Direktmailing"
+  },
+  {
+   "id": "EXP 16",
+   "titel": "DLV-Modell statt RFM: Prognose schlägt Rückspiegel",
+   "status": "abgeschlossen",
+   "kennzahl": "+4 % Spendeneinnahmen bei gleicher Reichweite",
+   "bereich": "KI-Methoden"
+  },
+  {
+   "id": "EXP 17",
+   "titel": "Upgrade-Audience: wer wird zur Dauerspendenden?",
+   "status": "läuft",
+   "kennzahl": "Ø Engagement Score der Konvertierenden 0,839",
+   "bereich": "KI-Methoden"
+  },
+  {
+   "id": "EXP 18",
+   "titel": "Engagement Score: Abwanderung früh erkennen",
+   "status": "läuft",
+   "kennzahl": "3–6 Monate Vorwarnzeit vor Abwanderung",
+   "bereich": "KI-Methoden"
+  },
+  {
+   "id": "EXP 19",
+   "titel": "Prompt Loop: 365 Texte genehmigen ohne einen zu lesen",
+   "status": "abgeschlossen",
+   "kennzahl": "3–5 Iterationen bis genehmigt",
+   "bereich": "Effizienz"
+  },
+  {
+   "id": "EXP 20",
+   "titel": "Champion/Challenger: immer lernen, nie opfern",
+   "status": "läuft",
+   "kennzahl": "70 % Champion, 30 % Challenger",
+   "bereich": "Effizienz"
+  }
+ ],
+ "geo_ngo_benchmark_snapshot": {
+  "stand": "2026-10-08",
+  "orgs": 94,
+  "avg_soav_pct": 12.4,
+  "max_soav_pct": 69.1,
+  "verteilung": {
+   "unsichtbar_0": 41,
+   "gering_1_25": 32,
+   "mittel_25_50": 13,
+   "gut_50_75": 8,
+   "sehr_gut_75plus": 0
+  },
+  "modelle_avg_soav_pct": {
+   "Perplexity": 11.8,
+   "GPT-5": 15.2,
+   "Claude": 9.1,
+   "Gemini": 13.5
+  },
+  "themen_avg_soav_pct": {
+   "Tierschutz": 24.6,
+   "Soziale Arbeit": 21.0,
+   "Kinder & Jugend": 15.9,
+   "Umwelt & Naturschutz": 10.5,
+   "Katastrophenhilfe": 9.5,
+   "Entwicklungshilfe": 6.9,
+   "Medizin & Gesundheit": 6.7
+  }
+ },
+ "hinweis": "EXP 10 wird auf der Übersichtsseite von learn.flyraising.com nicht aufgeführt. Zahlen sind Angaben von FlyRaising/learn.flyraising.com, Stand der Abfrage 2026-10-09."
+}
